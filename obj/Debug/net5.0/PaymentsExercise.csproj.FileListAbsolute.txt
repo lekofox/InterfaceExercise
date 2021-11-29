@@ -1,0 +1,16 @@
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\bin\Debug\net5.0\PaymentsExercise.exe
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\bin\Debug\net5.0\PaymentsExercise.deps.json
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\bin\Debug\net5.0\PaymentsExercise.runtimeconfig.json
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\bin\Debug\net5.0\PaymentsExercise.runtimeconfig.dev.json
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\bin\Debug\net5.0\PaymentsExercise.dll
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\bin\Debug\net5.0\ref\PaymentsExercise.dll
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\bin\Debug\net5.0\PaymentsExercise.pdb
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\obj\Debug\net5.0\PaymentsExercise.csproj.AssemblyReference.cache
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\obj\Debug\net5.0\PaymentsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\obj\Debug\net5.0\PaymentsExercise.AssemblyInfoInputs.cache
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\obj\Debug\net5.0\PaymentsExercise.AssemblyInfo.cs
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\obj\Debug\net5.0\PaymentsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\obj\Debug\net5.0\PaymentsExercise.dll
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\obj\Debug\net5.0\ref\PaymentsExercise.dll
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\obj\Debug\net5.0\PaymentsExercise.pdb
+C:\Users\Fox\source\repos\PaymentsExercise\PaymentsExercise\obj\Debug\net5.0\PaymentsExercise.genruntimeconfig.cache
